@@ -30,7 +30,7 @@ pip install tk
 
 Para iniciar la aplicación, ejecuta el siguiente comando en tu terminal:
 
-python detector_bluetooth.py
+python bpd.py
 
 Usa el botón "Escanear dispositivos" para iniciar el proceso de detección. La interfaz mostrará los dispositivos detectados junto con su distancia estimada.
 
