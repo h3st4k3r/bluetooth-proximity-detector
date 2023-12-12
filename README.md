@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de Python que utiliza la biblioteca `bleak` para detectar dispositivos Bluetooth cercanos y estimar su distancia del receptor utilizando la intensidad de la señal recibida (RSSI).
 
+![Detección real](https://blog.masalladelfirewall.com/wp-content/uploads/2023/12/Deteccion-bluetooth-cercanos-1024x551.png)
+
 ## Características
 
 - Escaneo de dispositivos Bluetooth cercanos.
