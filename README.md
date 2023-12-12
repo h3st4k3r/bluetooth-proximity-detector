@@ -1,15 +1,15 @@
-#Detector de Bluetooth
+# Detector de Bluetooth
 
 Este proyecto es una aplicación de Python que utiliza la biblioteca `bleak` para detectar dispositivos Bluetooth cercanos y estimar su distancia del receptor utilizando la intensidad de la señal recibida (RSSI).
 
-##Características
+## Características
 
 - Escaneo de dispositivos Bluetooth cercanos.
 - Cálculo de la distancia estimada basada en RSSI.
 - Representación gráfica de dispositivos y su distancia en una interfaz gráfica de usuario (GUI).
 - Posibilidad de acercar y alejar la visualización.
 
-##Requisitos
+## Requisitos
 
 Para ejecutar este proyecto, necesitarás:
 
@@ -17,14 +17,14 @@ Para ejecutar este proyecto, necesitarás:
 - `bleak` para la comunicación Bluetooth.
 - `tkinter` para la GUI.
 
-##Instalación
+## Instalación
 
 Asegúrate de tener Python instalado en tu sistema. Luego, instala las dependencias con pip:
 
 pip install bleak
 pip install tk
 
-##Uso
+## Uso
 
 Para iniciar la aplicación, ejecuta el siguiente comando en tu terminal:
 
@@ -40,6 +40,6 @@ distancia = 10 ^ ((RSSI_REF - RSSI) / (10 * PATH_LOSS_EXPONENT))
 
 Donde `RSSI_REF` es el RSSI medido a un metro de distancia, y `PATH_LOSS_EXPONENT` es el exponente de pérdida de trayectoria, que depende del entorno.
 
-##Contribuciones
+## Contribuciones
 
 Las contribuciones a este proyecto son bienvenidas. De la comunidad para la comunidad.
