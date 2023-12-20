@@ -34,7 +34,7 @@ python bpd.py
 
 Usa el botón "Escanear dispositivos" para iniciar el proceso de detección. La interfaz mostrará los dispositivos detectados junto con su distancia estimada.
 
-##Cálculo de Distancia
+## Cálculo de Distancia
 
 El cálculo de la distancia se realiza utilizando la siguiente fórmula:
 
