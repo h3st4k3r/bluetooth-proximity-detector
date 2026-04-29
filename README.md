@@ -2,6 +2,9 @@
 
 Object-oriented Bluetooth discovery and read-only audit toolkit for authorized lab assessments.
 
+<img width="1641" height="775" alt="image" src="https://github.com/user-attachments/assets/66e8cc8e-52b5-403b-956e-795791bf5391" />
+
+
 ## Architecture
 
 - `bpd/receiver.py`: receiver layer (`DeviceReceiver`) and BLE backend (`BleDeviceReceiver`).
